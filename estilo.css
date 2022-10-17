@@ -1,0 +1,40 @@
+*{
+    margin: 0%;
+    box-sizing: border-box;
+
+}
+.clas1{height: 15%;
+    width: 100%;
+    background-color: rgb(6, 73, 73);
+    padding: 2%;
+
+
+}
+.clas2{
+    height: 5%;
+    width: 100%;
+    background-color: rgb(89, 0, 255);
+    padding: 1%;
+
+}
+.flex1{
+    height: 75%;
+    width: 10%;
+    background-color: rgb(13, 120, 207);
+    padding-top: 42%;
+}
+.flex2{
+    height: 75%;
+    width: 90%;
+    background-color: rgb(238, 223, 17);
+}
+.flex{
+    display: flex;
+}
+.dentro{
+    background-color: rgb(215, 24, 221);
+    padding: 1%;
+    margin: 0%;
+    width: 100%;
+    padding-top: 45.6%;
+}
